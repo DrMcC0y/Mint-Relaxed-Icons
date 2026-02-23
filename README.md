@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3.0 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon), GTK desktops
 **Author**: DrMcC0y
-**Version**: 1.4.4
+**Version**: 1.4.5
 **Status**: Actively maintained
 **Based on**: Breeze, Numix-Circle, Papirus, Hicolor (GPL-compatible)
 
